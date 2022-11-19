@@ -1,7 +1,7 @@
 <annotation>
 	<folder>people_detection_dataset</folder>
 	<filename>basketball_8.jpg</filename>
-	<path>/Users/davidsheylar/Documents/Id_tech/Machine Learning /people_detection_dataset/basketball_8.jpg</path>
+	<path>./basketball_8.jpg/path>
 	<source>
 		<database>Unknown</database>
 	</source>
