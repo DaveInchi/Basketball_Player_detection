@@ -1,0 +1,64 @@
+item {
+ id: 1
+ name: ‘basketball_player’
+}
+
+item {
+ id: 2
+ name: ‘basketball’
+}
+
+item {
+ id: 3
+ name: ‘spalding_logo’
+}
+
+item {
+ id: 4
+ name: ‘USA_flag’
+}
+
+item {
+ id: 5
+ name: ‘nba_logo’
+}
+
+item {
+ id: 6
+ name: ‘basketball_shoe’
+}
+
+item {
+ id: 7
+ name: ‘basketball_rim’
+}
+
+item {
+ id: 8
+ name: ‘basketball_coach’
+}
+
+item {
+ id: 9
+ name: ‘basketball_player_bench’
+}
+
+item {
+ id: 10
+ name: ‘basketball_referee’
+}
+
+item {
+ id: 11
+ name: ‘basketball_table’
+}
+
+item {
+ id: 12
+ name: ‘basketball_supporter’
+}
+
+item {
+ id: 13
+ name: ‘basketball_photographer’
+}
