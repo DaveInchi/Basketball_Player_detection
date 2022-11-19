@@ -2,7 +2,7 @@
 
  This project is about tracking basketball players in the images during different games or warm-ups. They can also be detected during their personal life. That can show the difficult life of every basketball player, for example. Or how they are dealing with the NBA community. But usually it will show how they are playing because his is the main fact in which every basketball player is intersted in.
 
-![this is the first image that will be using by the detection script]([Imgur](https://i.imgur.com/QoVrUWg.jpg))
+[this is the first image that will be using by the detection script](<a href="https://imgur.com/QoVrUWg"><img src="https://i.imgur.com/QoVrUWg.jpg" title="source: imgur.com" /></a>)
 
 ## The Algorithm
 
