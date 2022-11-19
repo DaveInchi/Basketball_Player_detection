@@ -1,16 +1,14 @@
 # Basketball Player Detection
 
- Add short description of project here > 
+ This project is about tracking basketball players in the images during different games or warm-ups. They can also be detected during their personal life. That can show the difficult life of every basketball player, for example. Or how they are dealing with the NBA community. But usually it will show how they are playing because his is the main fact in which every basketball player is intersted in.
 
-![add image descrition here](direct image link here)
+![this is the first image that will be using by the detection script]([Imgur](https://i.imgur.com/QoVrUWg.jpg))
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+My algorithm will work pretty simple. It will take some basketball images as an input and than my script will detect labeled objects which I labeled. For example, I have a label named "basketball player" or "basketball rim". So I made a rectangular boxes which the script will analyse.
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
-
-[View a video explanation here](video link)
+1. I added some images to that repository, but if you want, you can always add some. 
+2. So in fact, I have three things in my github repository. The "readme.md" file in which you can always read all the information. I have my code and folder with the images that I included earlier.
